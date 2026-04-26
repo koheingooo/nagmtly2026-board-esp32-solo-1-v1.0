@@ -1,0 +1,1 @@
+# nagmtly2026-board-esp32-solo-1-v1.0
