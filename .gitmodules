@@ -1,0 +1,3 @@
+[submodule "nagmtly_KiCad_Library"]
+	path = nagmtly_KiCad_Library
+	url = https://github.com/koheingooo/nagmtly_KiCad_Library.git
